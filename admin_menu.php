@@ -1,0 +1,52 @@
+<ul>
+  <li>
+  <div class="apple"><img src="img/logoss.png" alt=""></div>
+  
+    <a href="home.php">
+      <i class="glyphicon glyphicon-home"style="margin-top: 60px;"></i>
+     <span>Dashboard</span>
+    </a>
+  </li>
+  <li>
+    <a href="users.php">
+      <i class="glyphicon glyphicon-user" ></i>
+      <span>Users</span>
+    </a>
+  </li>
+  <li>
+    <a href="prdct.php">
+      <i class="glyphicon glyphicon-th-large"></i>
+      <span>Products</span>
+    </a>
+  </li>
+  <li>
+    <a href="sales.php">
+      <i class="glyphicon glyphicon-credit-card"></i>
+       <span>Sales</span>
+      </a>
+  </li>
+  <li>
+    <a href="datepicker.php">
+      <i class="glyphicon glyphicon-duplicate"></i>
+       <span>Sales Report</span>
+      </a>
+	</li>
+	<li>
+    <a href="salesMonthly.php">
+      <i class="glyphicon glyphicon-duplicate"></i>
+       <span>Monthly Sales</span>
+      </a>
+	  </li>
+	  <li>
+    <a href="salesDaily.php">
+      <i class="glyphicon glyphicon-duplicate"></i>
+       <span>Daily Sales</span>
+      </a>
+	</li>
+	  <li>
+    <a href="newPassword.php">
+      <i class="glyphicon glyphicon-lock"></i>
+       <span>Security</span>
+      </a>
+	</li>
+</ul>
